@@ -1,0 +1,1066 @@
+{
+    "etapes": [
+      {
+        "ID": 1,
+        "Titre": "Création de Fiducie familiale [nom de la fiducie familiale]",
+        "texte": "Le [date], il y a eu constitution d'une fiducie entre vifs dont les modalités sont les suivantes :\n\n1.1.1. Date de constitution : [date]\n1.1.2. Constituant1 : [nom du constituant]\n1.1.3. Bien donné au patrimoine de la fiducie aux fins de sa constitution :\n   1.1.3.1. Une pièce d'argent avec numéro d'identification numérologique\n1.1.4. Nom de la fiducie : Fiducie familiale [nom]\n1.1.5. Fiduciaires :\n   • Fiduciaire Principal2 : [nom]\n   • Fiduciaire Externe3 : [nom]\n1.1.6. Fiduciaires remplaçants :\n   • Remplaçant du Fiduciaire Principal4 : [nom]\n1.1.7. Bénéficiaires discrétionnaires5 :\n   • [nom];\n   • [nom];\n   • Conjoint de [nom], actuelle ou futur;\n   • Conjoint [nom], actuelle ou futur;\n   • Madame [nom]\n   • Monsieur [nom]\n\n1 – Personne physique qui n'est ni l'actionnaire, ni son conjoint, ni ses enfants, ni fiduciaire, ni bénéficiaire.\n2 – Idéalement, l'actionnaire lui-même.\n3 – Personne physique qui n'est ni l'auteur, ni un bénéficiaire (en pratique, un coactionnaire ou un ami de longue date de confiance est choisi à cette fin).\n4 – En cas de décès, démission ou incapacité du fiduciaire nommé initialement.\n5 – Inclut, idéalement, l'actionnaire et les proches qu'il désire avantager.\n\n Toute société par actions désignée par les Fiduciaires, constituée ou à être constituée, dont la totalité des actions est ou sera détenue par la Fiducie familiale [nom] ou l'un des Bénéficiaires. La société ne deviendra bénéficiaire qu'à compter du moment où les fiduciaires l'auront désignée bénéficiaire par écrit, soit par acte notarié ou sous seing privé devant deux témoins. Toutefois, une société par actions dont la Fiducie familiale [nom] est ou sera actionnaire ou qui est bénéficiaire d'une fiducie qui est Bénéficiaire ne peut en aucun cas être bénéficiaire à l'égard des actions de son propre capital-actions;\n\n Toute fiducie désignée par les Fiduciaires et dont les bénéficiaires sont ou seront l'un ou plusieurs des Bénéficiaires. La fiducie ne deviendra bénéficiaire qu'à compter du moment où les fiduciaires l'auront désignée bénéficiaire par écrit, soit par acte notarié ou sous seing privé devant deux témoins.\n\nAttribution des revenus et du capital totalement discrétionnaire tant que [nom] sera fiduciaire. Par la suite, l'attribution des revenus et du capital se fera selon les dernières instructions écrites laissées par [nom];\n\nPrévoir la possibilité de payer un gain en capital aux bénéficiaires mineurs;\n\nEn cas de décès d'un des bénéficiaires avant la liquidation de la fiducie, tous les droits dudit bénéficiaire cessent vingt-quatre (24) heures immédiatement avant son décès.",
+        "tableau": [],
+        "notes": "1. Personne physique qui ne doit pas être l'actionnaire, ni son conjoint, ni ses enfants, ni fiduciaire, ni bénéficiaire.\n2. Idéalement, l'actionnaire lui-même.\n3. Personne physique qui n'est ni l'auteur, ni un bénéficiaire.\n4. En cas de décès, démission ou incapacité du fiduciaire nommé initialement.\n5. Inclut, idéalement, l'actionnaire et les proches qu'il désire avantager."
+      },
+      {
+        "ID": 2,
+        "Titre": "Constitution de [nom de la société]",
+        "texte": "Il y a eu constitution de la société le [date].\n\nLe [date], [nom de la société] sera constituée.\n\n1.1.1. La société sera constituée sous le régime de la Loi sur les sociétés par actions du Québec.\n1.1.2. Le capital-actions est conforme aux besoins de la présente planification, un résumé étant reproduit à l'annexe B des présentes¹.\n1.1.3. Le siège social de [nom de la société] sera situé au [adresse].\n1.1.4. Monsieur [nom de l'administrateur] sera seul administrateur de la société.\n1.1.5. La première fin d'année de la société sera le [date].\n1.1.6. La date de fin d'exercice de la société est le [date].\n1.1.7. Les actions suivantes seront émises lors de la constitution de la société :\n   • Monsieur [nom de l'administrateur]: xx actions « A »² pour xx $³\n\nLes personnes ayant une contrepartie payable comptant doivent faire un chèque selon leurs montants respectifs en faveur de la société.\n\n1.1.8. La société devra être inscrite aux fichiers de la TPS et de la TVQ.\n1.1.9. Il n'y aura aucune émission d'actions lors de la constitution, celles-ci étant prévues à une étape ultérieure de la présente note de planification.\n\n¹ La version complète du capital-actions est disponible dans le livre corporatif.\n² Actions ordinaires.\n³ Payable comptant.",
+        "tableau": []
+      },
+      {
+        "ID": 3,
+        "Titre": "Modification du capital-actions de [nom de la société]",
+        "texte": "La description actuelle du capital-actions de [nom de la société] devra être remplacée par une nouvelle description. Celle-ci prévoira les catégories d'actions usuelles ainsi que plusieurs catégories d'actions à dividende discrétionnaire. La nouvelle description est présentée à l'annexe B des présentes.\n\nMonsieur [nom], détenteur de [nombre d'actions] action de catégorie « x », recevra de nouvelles actions de catégorie « x ». Selon le paragraphe 86 (1) de la L.I.R. et les articles 541 L.I. et suivants, cet échange constituera une disposition, toutefois sans incidence fiscale.\n\nLe [date], [nom de la société] modifiera ses statuts afin d'adapter son capital-actions à sa réalité corporative.\n\nLes actions émises seront converties de la façon suivante :",
+        "tableau": {
+          "header": [
+            "ACTIONNAIRE ANCIENNES",
+            "ACTIONS NOUVELLES",
+            "ACTIONS",
+            "CAPITAL",
+            "VERSÉ PBR"
+          ],
+          "rows": [
+            [
+              "[nom de l'actionnaire]",
+              "[nombre d'actions détenues]",
+              "[nombre d'actions émises]",
+              "[montant du capital versé]",
+              "[montant du prix de base rajusté]"
+            ]
+          ]
+        }
+      },
+      {
+        "ID": 4,
+        "Titre": "Changement de dénomination sociale",
+        "texte": "Le [date], [nom de la société] procédera à la modification de ses statuts afin de changer la dénomination sociale de la société pour [nouveau nom de la société].",
+        "tableau": []
+      },
+      {
+        "ID": 5,
+        "Titre": "Mise à jour du livre corporatif de [nom de la société]",
+        "texte": "Une première analyse révèle que plusieurs transactions n'ont pas été reflétées dans le livre corporatif de la société.\n\nNous proposons l'adoption d'une résolution omnibus, datée du date, signée par tous les actionnaires et indiquant que les actions suivantes sont en circulation :",
+        "tableau": {
+          "header": [
+            "ACTIONNAIRES",
+            "NOMBRE",
+            "CATÉGORIE",
+            "CERTIFICAT"
+          ],
+          "rows": [
+            [
+              "[nom de l'actionnaire]",
+              "[nombre d'actions détenues]",
+              "« [catégorie d'actions] »",
+              "[nombre de certificats]"
+            ]
+          ]
+        }
+      },
+      {
+        "ID": 6,
+        "Titre": "Ouverture d'un compte bancaire pour Fiducie familiale [nom]",
+        "texte": "Fiducie familiale [nom] ouvre un compte bancaire auprès d'une institution financière. L'institution demandera :\n\n▪ Une copie certifiée conforme de l'acte de fiducie¹;\n▪ Une résolution des fiduciaires indiquant leur désir d'ouvrir un compte et précisant les noms des signataires.\n\n¹ Vous pouvez obtenir une copie certifiée conforme supplémentaire auprès du notaire ayant reçu l'acte de fiducie.",
+        "tableau": []
+      },
+      {
+        "ID": 7,
+        "Titre": "Rachat des actions de catégorie « x »",
+        "texte": "Le [date], [nom de la société] procèdera au rachat de [nombre d'actions] (x) actions de catégorie « x » de son capital-actions, détenues par [nom du détenteur], en contrepartie d'un montant total de X DOLLARS (xx $), payable comptant¹.\n\nSuite à ces rachats, le certificat « x » de [nom du détenteur] devra être annulé. Les registres de la société seront mis à jour afin de refléter la transaction.\n\n¹ Aucune évaluation de la juste valeur marchande n'a été effectuée ; une lettre d'exonération sera signée par les parties.",
+        "tableau": []
+      },
+      {
+        "ID": 8,
+        "Titre": "Vente directe à Gestion [nom de de la société]",
+        "texte": "Le [date], madame ou monsieur [nom] vendra [nombre d'actions] (xxx) actions de catégorie « x » du capital-actions de [nom de la société] (fusionnée) à la société [nom de la société] pour un montant de X DOLLARS (xx $).\n\nAnalyse de l'application des impacts fiscaux de 84.1 L.I.R.\nL'analyse de l'application des impacts fiscaux de l'article 84.1 L.I.R. sur la vente des [nombre d'actions] (xxx) actions de catégorie « x » du capital-actions de [nom de la société] (fusionnée) est reproduite en annexe C des présentes, préparée par [firme].\n\nLe [date], madame ou monsieur [nom] vendra [nombre d'actions] (xxx) actions de catégorie « x » du capital-actions de [nom de la société] (fusionnée) à la société [nom de la société] pour un montant de X DOLLARS (xx $).\n\nAnalyse de l'admissibilité à l'exonération du gain en capital\nL'analyse de l'admissibilité à l'exonération du gain en capital par monsieur nom sur la vente des [nom d'actions] (xxx) actions de catégorie « x » du capital-actions de [nom de la société] (fusionnée) est reproduite en annexe D des présentes, préparée par [nom du comptable].",
+        "tableau": []
+      },
+      {
+        "ID": 9,
+        "Titre": "Roulement d'actions à [nom de la société 2]",
+        "texte": "Le [date], madame ou monsieur [nom de l'actionnaire] transfère à [nom de la société 1], sans incidence fiscale immédiate selon le paragraphe 85(1) L.I.R. et les articles 518 et suivants L.I., [nombre d'actions] (x) actions de catégorie « x » qu'ils détiennent dans le capital-actions de [nom de la société 2].\n\nVoici les caractéristiques de ce transfert :",
+        "tableau": {
+          "header": [
+            "ACTIONNAIRES",
+            "NOMBRE ET CATEGORIE",
+            "PBR",
+            "CV",
+            "JVM",
+            "SOMME CONVENUE",
+            "CONTREPARTIE REÇUE",
+            "NOMBRE D'ACTIONS",
+            "CV",
+            "PBR",
+            "VALEUR RACHAT"
+          ],
+          "rows": [
+            [
+              "[nom de l'actionnaire]",
+              "[nombre d'actions détenues] « [catégorie d'actions] »",
+              "[montant du prix de base rajusté]",
+              "[montant du capital versé]",
+              "[montant de la juste valeur marchande]",
+              "[montant de la somme convenue]",
+              "[montant de la contrepartie reçue]",
+              "[nombre d'actions émises]",
+              "[montant du capital versé]",
+              "[montant du prix de base rajusté]",
+              "[montant de la valeur de rachat]"
+            ]
+          ]
+        }
+      },
+      {
+        "ID": 10,
+        "Titre": "Roulement d'un terrain",
+        "texte": "Le [date], [nom de la société 1] transfère à [nom de la société 2], sans incidence fiscale immédiate selon le paragraphe 85(1) L.I.R. et les articles 518 et suivants L.I., l'immeuble sis au [adresse].\n\nVoici les caractéristiques de ce transfert :",
+        "tableau": {
+          "header": [
+            "BIENS",
+            "COÛT",
+            "FNACC",
+            "JVM",
+            "SOMME CONVENUE",
+            "CONTREPARTIE REÇUE",
+            "AUTRE QUE DES ACTIONS",
+            "ACTIONS CATÉGORIE",
+            "BILLET",
+            "NOMBRE D'ACTIONS",
+            "CV",
+            "PBR",
+            "VALEUR RACHAT"
+          ],
+          "rows": [
+            [
+              "Terrain",
+              "[montant du coût]",
+              "[montant de la FNACC]",
+              "[montant de la juste valeur marchande]",
+              "[montant de la somme convenue]",
+              "[montant de la contrepartie reçue]",
+              "[nombre d'actions émises]",
+              "[montant du capital versé]",
+              "[montant du prix de base rajusté]",
+              "[montant de la valeur de rachat]"
+            ]
+          ]
+        }
+      },
+      {
+        "ID": 11,
+        "Titre": "Conditions du transfert d'actions",
+        "texte": "En contrepartie, [nom de la société] recevra [nombre d'actions] (XXX) actions de catégorie « x » totalisant une juste valeur marchande correspondant à la juste valeur marchande des biens transférées. Les actions de catégorie « x » sont émises à un capital versé total de x DOLLARS (XX $) et elles sont rachetables à x DOLLARs (XX $), soit X DOLLARS (x $) par action.\n\nLe contrat devra faire état du lien de dépendance entre les parties et devra comporter, sans s'y restreindre, les éléments suivants :\n\n• que les parties désirent transiger à la juste valeur marchande;\n• que les parties désirent se prévaloir du paragraphe 85(1) de la LIR et de l'article 518 de la LI;\n• que les parties désirent se prévaloir d'un mécanisme d'ajustement de prix de vente des actions qui devra être inscrit au contrat, à l'effet que la valeur des actions de catégorie « x » émises lors du transfert soit automatiquement réajustée s'il advenait que les autorités fiscales ou les tribunaux venaient modifier le montant convenu entre les parties à titre de juste valeur marchande des actifs transférés;\n• qu'en vertu du paragraphe 85(1) de la Loi de l'impôt sur le revenu et de l'article 518 de la Loi sur les impôts, la somme convenue aux fins de ces dispositions est de X DOLLARS (x $).\n\nNous préparerons, d'ici le [date], les formulaires prescrits en vertu du paragraphe 85(1) L.I.R. et de l'article 518 L.I.",
+        "tableau": []
+      },
+      {
+        "ID": 12,
+        "Titre": "Transfert de terrain pour protection de la bâtisse commerciale",
+        "texte": "Au sujet de la bâtisse commerciale appartenant à [nom de la société], nous avons noté une irrégularité. Nous avons eu le mandat de protéger la bâtisse. Donc, madame ou monsieur [nom] transfèrera le terrain qu'il possède où la bâtisse commerciale est située en faveur de [nom de la société], d'une valeur de X DOLLARS (xx $), en contrepartie d'un billet à demande du même montant.\n\nCe transfert sera assujetti à la TPS et à la TVQ ainsi qu'au droit de mutation. Par contre, l'acquéreur, [nom l'acquéreur], pourra déclarer la TPS et la TVQ à Revenu Québec vu que la société est inscrite aux taxes.\n\nNous prenons pour acquis que toutes les implications fiscales liées à la construction d'un immeuble dans une société sur le terrain appartenant à un particulier ont été déclarées au moment de la construction de la bâtisse sur le terrain personnel de madame ou monsieur [nom].\n\nNous n'avons pas eu le mandat de vérifier ou de nous prononcer sur la régularité des déclarations produites dans le passé.",
+        "tableau": []
+      },
+      {
+        "ID": 13,
+        "Titre": "Roulement des actifs en faveur de [nom de l'entreprise 1]",
+        "texte": "Le [date], à 10h00, [nom de l'entreprise] transfère à [nom de l'entreprise 1], sans incidence fiscale immédiate selon le paragraphe 85(1) L.I.R. et les articles 518 et suivants L.I., une partie des biens servant à l'exploitation de l'entreprise.\n\nVoici les caractéristiques de ce transfert :",
+        "tableau": {
+          "header": [
+            "BIENS",
+            "FNACC",
+            "COÛT",
+            "JVM",
+            "SOMME CONVENUE",
+            "CONTREPARTIE REÇUE",
+            "ACTIONS CATÉGORIE F",
+            "BILLET",
+            "NOMBRE D'ACTIONS",
+            "CV",
+            "PBR",
+            "VALEUR RACHAT"
+          ],
+          "rows": [
+            [
+              "Machinerie",
+              "[montant de la FNACC]",
+              "[montant du coût]",
+              "[montant de la juste valeur marchande]",
+              "[montant de la somme convenue]",
+              "[montant de la contrepartie reçue]",
+              "[nombre d'actions émises]",
+              "[montant du capital versé]",
+              "[montant du prix de base rajusté]",
+              "[montant de la valeur de rachat]"
+            ]
+          ]
+        }
+      },
+      {
+        "ID": 14,
+        "Titre": "Conditions du transfert d'actions",
+        "texte": "En contrepartie, [nom de l'entreprise 2] recevra [nombre d'actions] (XXX) actions de catégorie « G » totalisant une juste valeur marchande correspondant à la juste valeur marchande des biens transférées. Les actions de catégorie « G » sont émises à un capital versé total de [xx DOLLARS] (XX $) et elles sont rachetables à [xx DOLLARS] (XX $), soit [xx DOLLARS] (x $) par action.\n\nLe contrat devra faire état du lien de dépendance entre les parties et devra comporter, sans s'y restreindre, les éléments suivants :\n\n• que les parties désirent transiger à la juste valeur marchande;\n• que les parties désirent se prévaloir du paragraphe 85(1) de la LIR et de l'article 518 de la LI;\n• que les parties désirent se prévaloir d'un mécanisme d'ajustement de prix de vente des actions qui devra être inscrit au contrat, à l'effet que la valeur des actions de catégorie « G » émises lors du transfert soit automatiquement réajustée s'il advenait que les autorités fiscales ou les tribunaux venaient modifier le montant convenu entre les parties à titre de juste valeur marchande des actifs transférés;\n• qu'en vertu du paragraphe 85(1) de la Loi de l'impôt sur le revenu et de l'article 518 de la Loi sur les impôts, la somme convenue aux fins de ces dispositions est de [xx DOLLARS] (X $).\n\nNous préparerons, d'ici le [date], les formulaires prescrits en vertu du paragraphe 85(1) L.I.R. et de l'article 518 L.I.",
+        "tableau": []
+      },
+      {
+        "ID": 15,
+        "Titre": "Application de la TPS et de la TVQ à la transaction",
+        "texte": "La transaction entre [nom] et [nom de la société] est assujettie à la TPS et à la TVQ. Madame [nom] aura l'obligation de percevoir et de remettre le montant aux autorités compétentes.",
+        "tableau": []
+      },
+      {
+        "ID": 16,
+        "Titre": "Gel successoral par échange d'actions – [nom de la société]",
+        "texte": "Le [date], les actionnaires, détenant des actions de catégorie « x » de [nom de la société], selon les articles 51 L.I.R. et 301 L.I., échangeront la totalité des actions de catégories « x » qu'ils détiennent dans le capital-actions de la société contre des actions de catégorie « x »¹. Cet échange s'effectue sans incidence fiscale et aura les modalités suivantes :\n\nLes [nombre] (xx) actions de catégorie « catégorie » de la société [nom de la société] sont émises à un capital versé total de [xx DOLLARS] (xx $) et pour une juste valeur marchande totale de [xx DOLLARS] (xx $).\n\nLe contrat d'échange devra comprendre une clause d'ajustement de prix advenant le cas où les autorités fiscales seraient en désaccord avec la juste valeur marchande utilisée².\n\nLe contrat devra spécifier, sans s'y restreindre, que :\n• les parties ont un lien de dépendance;\n• les parties désirent se prévaloir du paragraphe 51(1) de la LIR et de l'article 301 de la LI;\n• les parties désirent se prévaloir d'un mécanisme d'ajustement de prix de vente des actions qui devra être inscrit au contrat, à l'effet que la valeur des actions de catégorie « x » émises lors du transfert soit automatiquement réajustée s'il advenait que les autorités fiscales ou les tribunaux venaient modifier le montant convenu entre les parties à titre de juste valeur marchande des actifs transférés;\n• en vertu du paragraphe 51(1) de la LIR et de l'article 301 de la LI, la vente d'actions est réputée ne pas constituer une disposition de biens.\n\n¹ Nous n'avons pas effectué le calcul du revenu protégé relativement à ces actions. Avant tout rachat dans le futur, il serait essentiel d'effectuer ledit calcul afin de déterminer l'application fiscale dudit rachat.\n² Il est important de noter qu'en cas de conflit avec les autorités fiscales sur la juste valeur marchande, la clause de rajustement de prix pourrait être refusée s'il n'est pas démontré que la méthode employée est juste et raisonnable.",
+        "tableau": {
+          "header": [
+            "ACTIONNAIRE(S)",
+            "ACTIONS DÉTENUES PRÉALABLEMENT À L'ÉCHANGE",
+            "ACTIONS ÉMISES SUITE À L'ÉCHANGE",
+            "CAPITAL VERSÉ"
+          ],
+          "rows": [
+            [
+              "[nom de l'actionnaire]",
+              "[nombre d'actions détenues]",
+              "[nombre d'actions émises]",
+              "[montant du capital versé]"
+            ]
+          ]
+        }
+      },
+      {
+        "ID": 17,
+        "Titre": "Échange d'actions – [nom de la société]",
+        "texte": "Le [date], [nom de la société], détenant une action de catégorie « x » de [nom de la société] selon les articles 51 L.I.R. et 301 L.I., échangera son action de catégories « x » dans le capital-actions de [nom de la société] contre une action de catégorie « x »¹. Cet échange s'effectue sans incidence fiscale et aura les modalités suivantes :\n\nL'action de catégorie « x » de la société [nom de la société] est émise à un capital versé total de X DOLLARS (x $).\n\nLe contrat d'échange devra comprendre une clause d'ajustement de prix advenant le cas où les autorités fiscales seraient en désaccord avec la juste valeur marchande utilisée².\n\nLe contrat devra spécifier, sans s'y restreindre, que :\n• les parties ont un lien de dépendance;\n• les parties désirent se prévaloir du paragraphe 51(1) de la LIR et de l'article 301 de la LI;\n• les parties désirent se prévaloir d'un mécanisme d'ajustement de prix de vente des actions – notamment pour que la valeur des actions de catégorie « B » soit automatiquement réajustée si les autorités fiscales ou tribunaux modifiaient le montant convenu;\n• en vertu du paragraphe 51(1) de la LIR et de l'article 301 de la LI, la vente d'actions est réputée ne pas constituer une disposition de biens.\n\n¹ Nous n'avons pas effectué le calcul du revenu protégé relativement à ces actions. Ce calcul est indispensable avant tout rachat futur afin de déterminer l'application fiscale.\n² Il est important de noter qu'en cas de conflit sur la juste valeur marchande, la clause de rajustement pourrait être refusée si la méthode d'évaluation n'est pas jugée juste et raisonnable.",
+        "tableau": {
+          "header": [
+            "Actionnaires",
+            "Conversion",
+            "CV",
+            "PBR"
+          ],
+          "rows": [
+            [
+              "[nom de la société]",
+              "X « [catégorie d'actions] » → X « [catégorie d'actions] »",
+              "[montant du capital versé]",
+              "[montant du prix de base rajusté]"
+            ]
+          ]
+        }
+      },
+      {
+        "ID": 18,
+        "Titre": "Déclaration de dividendes en actions – [nom de la société]",
+        "texte": "Le [date], [nom de la société] déclarera un dividende de [nombre d'actions] (xxx) actions de catégorie « x » sur la catégorie d'actions « x ». Les actions « x » reçues par madame ou monsieur [nom] auront un capital versé de X DOLLARS (X $)¹ et une valeur de rachat de X DOLLARS (x $), c'est-à-dire que la valeur du dividende total sera de X (X $).\n\nLa déclaration de ce dividende devra être constatée par une résolution du conseil d'administration, visant à isoler une partie de la valeur de la société afin de minimiser l'impact des règles d'attribution décrites à la section 4 de la présente note de planification.\n\nLe dividende sera imposable pour madame ou monsieur [nom] et devra être inclus dans sa déclaration de revenus pour l'année [2023].\n\n¹ Les actions de catégorie « x » ont une valeur nominale de x $ par action.",
+        "tableau": []
+      },
+      {
+        "ID": 19,
+        "Titre": "Souscription d'actions – [nom de la société]",
+        "texte": "Le [date], à 12h00, les souscriptions suivantes auront lieu dans le capital-actions de [nom de la société] :\n\nPour concentrer la plus-value future entre les mains de la fiducie, [nom de l'actionnaire] souscrit aux actions participantes émises par la société. [nom de l'actionnaire] souscrit à [NOMBRE] (x) actions de catégorie « x » pour une contrepartie de [ x DOLLARS] (x $) payée par l'émission d'un billet à demande du même montant.\n\nLes personnes ayant une contrepartie payable comptant doivent faire un chèque selon leurs montants respectifs en faveur de la société.",
+        "tableau": {
+          "header": [
+            "Actions émises",
+            "CV",
+            "PBR",
+            "Actionnaires"
+          ],
+          "rows": [
+            [
+              "[nombre d'actions émises]",
+              "[montant du capital versé]",
+              "[montant du prix de base rajusté]",
+              "[nom de l'actionnaire]"
+            ]
+          ]
+        }
+      },
+      {
+        "ID": 20,
+        "Titre": "Déclaration d'un dividende",
+        "texte": "Le [date], [nom de la société] déclarera un dividende sur les actions de catégorie « x » d'un montant total de [XX DOLLARS] (xx $) réparti de la manière suivante :\n\nLa déclaration devra être constatée par une résolution du conseil d'administration et le paiement effectué par émission d'un chèque de [nom de la société] à Fiducie familiale [nom de la fiducie]. Ce chèque, accompagné de la preuve de dépôt, devra être conservé dans les dossiers et une copie transmise pour insertion au livre de la fiducie.\n\nAu plus tard le [date], [nom de la société] produira le feuillet T5 (fédéral) et Relevé 3 (provincial) pour la déclaration d'un dividende à une fiducie, sans attribution de revenu aux bénéficiaires.",
+        "tableau": {
+          "header": [
+            "ACTIONNAIRE(S)",
+            "CATÉGORIE D'ACTIONS",
+            "MONTANT"
+          ],
+          "rows": [
+            [
+              "[nom de l'actionnaire]",
+              "« x »",
+              "[montant]"
+            ]
+          ]
+        }
+      },
+      {
+        "ID": 21,
+        "Titre": "Déclaration d'un dividende",
+        "texte": "Le [date], [nom de la société] déclarera un dividende sur les actions de catégorie « x » d'un montant total de X DOLLARS (x $) réparti de la manière suivante :\n\nLa déclaration sera constatée par une résolution du conseil d'administration et le dividende sera payé par émission d'un billet à demande du même montant en faveur de [actionnaire].",
+        "tableau": {
+          "header": [
+            "Actionnaires",
+            "Catégorie d'actions",
+            "Montant"
+          ],
+          "rows": [
+            [
+              "[nom de l'actionnaire]",
+              "« x »",
+              "[montant]"
+            ]
+          ]
+        }
+      },
+      {
+        "ID": 22,
+        "Titre": "Fusion verticale simplifiée",
+        "texte": "Le [date], les sociétés [nom de la société 1] et [nom de la société 2] fusionneront dans le cadre d'une fusion verticale simplifiée.\n\nLes sociétés remplacées ([nom de la société 1] et [nom de la société 2]) seront réputées avoir terminé leur année d'imposition immédiatement avant la fusion, soit le [date].\n\nDes états financiers et déclarations de revenu devront être préparés pour la période d'imposition se terminant à la fusion verticale simplifiée.\n\nLa société issue de la fusion portera la dénomination sociale de [nom de la société] (fusionnée) et ses administrateurs seront :\n• Monsieur [nom].",
+        "tableau": []
+      },
+      {
+        "ID": 23,
+        "Titre": "Fusion ordinaire",
+        "texte": "Le [date], il y aura fusion ordinaire entre [nom de la société] et [nom de la société 2].\n\n• La société issue de la fusion prendra la dénomination sociale de [nom de la société].\n• Le siège social sera situé au [adresse].\n• Le capital-actions de [nom de la société] (fusionnée) est conforme aux besoins de la présente planification (annexe B).\n• Les [nombre d'actions] (xxx) actions de catégorie « C » du capital-actions de [nom de la société] détenues par [actionnaire 1] seront annulées, la société remboursant le capital versé (XX DOLLARS, xx $) à [actionnaire 1].\n• Les [nombre d'actions] (xxx) actions de catégorie « D » du capital-actions de [nom de la société 2] détenues par [nom de la société 3] inc. seront annulées, avec remboursement total du capital versé (XX DOLLARS, xx $) à [nom de la société 3].\n• Les [nombre d'actions] (xxx) actions de catégorie « AA » du capital-actions de [nom de la société 2] détenues par [actionnaire 2] seront annulées, la société remboursant le capital versé (XX DOLLARS, xx $) à [actionnaire 2].\n\nLa détention des actions avant et après la fusion sera la suivante :",
+        "tableau": {
+          "header": [
+            "ACTIONNAIRES",
+            "ACTIONS DÉTENUES PRÉALABLEMENT À LA FUSION",
+            "ACTIONS ÉMISES SUITE À LA FUSION",
+            "PBR",
+            "CV"
+          ],
+          "rows": [
+            [
+              "[nom de l'actionnaire]",
+              "X « A » (soc 1)\nY « A » (soc 2)",
+              "Y « A »",
+              "100 $",
+              "100 $"
+            ],
+            [
+              "[nom de l'actionnaire]",
+              "X « A » (soc 1)\nY « A » (soc 2)",
+              "Y « A »",
+              "100 $",
+              "100 $"
+            ]
+          ]
+        }
+      },
+      {
+        "ID": 24,
+        "Titre": "Fractionnement d'actions",
+        "texte": "Le [date], [nom de la société] procédera au fractionnement des [nombres d'actions] (x) actions de catégorie « x » de son capital-actions. Chaque action de catégorie « x » du capital-actions de la société sera fractionnée en [nombre d'actions] (xxx) actions de catégorie « x » du capital-actions de la société.",
+        "tableau": {
+          "header": [
+            "ACTIONNAIRES",
+            "ACTIONS",
+            "CERTIFICAT"
+          ],
+          "rows": [
+            [
+              "[actionnaire 1]",
+              "[nombre d'actions]",
+              "[nombre d'actions]"
+            ],
+            [
+              "[actionnaire 2]",
+              "[nombre d'actions]",
+              "[nombre d'actions]"
+            ]
+          ]
+        }
+      },
+      {
+        "ID": 25,
+        "Titre": "Épuration de la société – Encaisse Excédentaire – [nom de la société]",
+        "texte": "Au plus tard le [date], [nom de la société] déclarera un dividende aux actionnaires ci-bas, d'un montant de XX DOLLARS (xx $), représentant l'encaisse de la société tout en laissant une somme de XX DOLLARS (xx $) à titre de fonds de roulement, et réparti de la manière décrite ci-après :\n\nLe dividende devra être effectivement versé dans le compte bancaire de l'actionnaire en question au plus tard le [date], car une analyse du solde bancaire sera requise afin de déterminer l'admissibilité à l'exonération de gain en capital.\n\nLa déclaration des dividendes devra être constatée par une résolution du conseil d'administration. La déclaration vise à épurer la société de ses liquidités excédentaires, un actif non admissible dans l'analyse de l'exonération pour gain en capital.\n\nLa déclaration de ce dividende sera imposable pour les actionnaires et devra être incluse dans leurs déclarations de revenus au [date].\n\nAu plus tard le [date], le bilan et le solde d'encaisse de la société devront être fournis à [nom du comptable] et [firme] afin de déterminer les montants ci-haut. Le [date], le bilan et le solde d'encaisse à jour devront également être fournis.\n\nIl est impératif de respecter l'ensemble des recommandations prévues au présent paragraphe, ainsi qu'à la rubrique Exonération du gain en capital de la présente note, et que le solde du compte bancaire n'excède, en aucune circonstance, XX DOLLARS (xx $), et ce, du [date] au [date].\n\nAu surplus, une analyse finale à la date des transactions devra être effectuée afin de confirmer l'admissibilité à l'exonération du gain en capital, ce qui ne peut être garanti avant cette analyse finale.",
+        "tableau": {
+          "header": [
+            "ACTIONNAIRES",
+            "CATEGORIE D'ACTIONS",
+            "DIVIDENDE"
+          ],
+          "rows": [
+            [
+              "[nom de l'actionnaire]",
+              "« A »",
+              "[montant]"
+            ],
+            [
+              "[nom de l'actionnaire]",
+              "« A »",
+              "[montant]"
+            ],
+            [
+              "[nom de l'actionnaire]",
+              "« A »",
+              "[montant]"
+            ],
+            [
+              "[nom de l'actionnaire]",
+              "« A »",
+              "[montant]"
+            ]
+          ]
+        }
+      },
+      {
+        "ID": 26,
+        "Titre": "Épuration de la société – Autres biens - [nom de la société]",
+        "texte": "Les actionnaires n'ont identifié aucun bien n'étant pas principalement¹ utilisé dans l'exploitation active de l'entreprise. Par conséquent, aucun bien n'est à être retiré des actifs de la société avant la vente.\n\nIl est de la responsabilité des actionnaires de nous informer si d'autres biens de la société ne sont pas utilisés principalement dans l'exploitation active de l'entreprise.",
+        "tableau": []
+      },
+      {
+        "ID": 27,
+        "Titre": "Épuration de la société – Avances aux actionnaires - [nom de la société]",
+        "texte": "Au plus tard le [date], [nom de la société] déclarera un dividende aux actionnaires ci-bas, d'un montant de XX DOLLARS (xx $), ledit montant représentant la totalité des avances aux actionnaires, et réparti de la manière décrite ci-après :\n\nLa déclaration des dividendes devra être constatée par une résolution du conseil d'administration. La déclaration vise à épurer la société de ses avances aux actionnaires, un actif non admissible dans l'analyse de l'exonération pour gain en capital.\n\nLa déclaration de ce dividende sera imposable pour les actionnaires et devra être incluse dans leurs déclarations de revenus au [date].",
+        "tableau": {
+          "header": [
+            "ACTIONNAIRES",
+            "CATEGORIE D'ACTIONS",
+            "DIVIDENDE"
+          ],
+          "rows": [
+            [
+              "[nom de l'actionnaire]",
+              "« A »",
+              "[montant]"
+            ],
+            [
+              "[nom de l'actionnaire]",
+              "« A »",
+              "[montant]"
+            ],
+            [
+              "[nom de l'actionnaire]",
+              "« A »",
+              "[montant]"
+            ]
+          ]
+        }
+      },
+      {
+        "ID": 28,
+        "Titre": "Obtention d'un financement",
+        "texte": "D'ici le [date], [nom de la société] devra obtenir un financement d'un montant [MONTANT DOLLARS] (montant $) auprès de tiers et d'une institution financière afin de payer les actions plus amplement décrites aux étapes 4.7 et suivants.\n\nSelon les informations fournies par les clients, le financement serait détaillé de la manière suivante :\n\n [MONTANT DOLLARS] (montant $) sous forme de prêt d'Investissement Québec (« IQ »);\n [MONTANT DOLLARS] (montant $) sous forme de quasi-équité d'Investissement Québec Capital (« IQC »);\n [MONTANT DOLLARS] (montant $) en balance de prix de vente¹.\n\nAu surplus, [nom de la société] devra avancer une mise de fonds de [MONTANT DOLLARS] (montant $), sous forme de billet à demande.",
+        "tableau": []
+      },
+      {
+        "ID": 29,
+        "Titre": "Application du paragraphe 164 (6) L.I.R.",
+        "texte": "Aux fins fiscales, une succession est considérée comme une fiducie¹. Une fiducie peut attribuer ses revenus à ses bénéficiaires. Par l'effet des paragraphes 104 (6) et 104 (13) L.I.R., le dividende de liquidation pourra être attribué aux bénéficiaires du revenu. Ainsi, le revenu de la succession pourrait être réduit à zéro.\n\nToutefois, ce dividende sera attribué dans les déclarations d'impôt personnel de chacun des bénéficiaires recevant le montant relatif à cette attribution, le cas échéant².\n\nPuisque la succession se qualifie à titre de succession assujettie à l'imposition à taux progressifs (« SAITP »), cette succession n'est pas imposée directement au taux marginal supérieur de 53,3 %. Ainsi, elle peut bénéficier des taux progressifs et il pourrait être intéressant qu'une partie du dividende soit imposée directement dans la fiducie, avant de la distribuer aux bénéficiaires du capital.",
+        "tableau": []
+      },
+      {
+        "ID": 30,
+        "Titre": "Achat d'actions de gré à gré – Actions de catégorie « x »",
+        "texte": "Le [date], [nom de la société] procèdera à l'achat de gré à gré de [nombre d'actions] (x) actions de catégorie « M » du capital-actions de la société, détenues par [nom de la société] en contrepartie d'un montant total de X DOLLARS (x $), payable par l'émission d'un billet à demande du même montant.\n\nSuite à cet achat d'actions, le certificat de [nom de la société] devra être annulé. Les différents registres au livre de la société devront également être modifiés afin de refléter les transactions.",
+        "tableau": []
+      },
+      {
+        "ID": 31,
+        "Titre": "Dividende réputé",
+        "texte": "Le rachat décrit à l'étape précédente entraîne le versement d'un dividende réputé en vertu du paragraphe 84(3) L.I.R. correspondant à l'excédent du coût du rachat des actions sur leur capital versé.\n\nAinsi, un dividende réputé total de X DOLLARS (X $) sera versé à [nom de la société 1] lors du rachat des actions de catégorie « M » de [nom de la société 2]:",
+        "tableau": {
+          "raw": "DIVIDENDE REPUTE DE 84(3) L.I.R.\n\nSommes reçues lors du rachat des actions : 7 500 000 $\nCapital versé des actions rachetées : (750 $)\nDividende réputé en vertu de 84(3) L.I.R. : 7 499 250 $\nDéduction en vertu de 112 (1) L.I.R. : (7 499 250 $)\nImpôt à payer : 0 $"
+        }
+      },
+      {
+        "ID": 32,
+        "Titre": "Impôt de la Partie IV",
+        "texte": "Considérant que les deux sociétés sont rattachées¹ et que la société [nom de la société 2] n'a pas obtenu de remboursement au titre de dividendes (« RTD ») au cours de l'année, [nom de la société 1] n'aura pas à payer d'impôt de la Partie IV suite au versement du dividende réputé par [nom de la société 2].",
+        "tableau": []
+      },
+      {
+        "ID": 33,
+        "Titre": "Remboursement au titre de dividende",
+        "texte": "[nom de la société 2] ne dispose d'aucun solde d'IMRTDD, ni de solde d'IMRTDND de sorte que celle-ci ne pourra réclamer de remboursement au titre de dividende sur le dividende réputé versé à [nom de la société 2].",
+        "tableau": []
+      },
+      {
+        "ID": 34,
+        "Titre": "Analyse de l'application des impacts fiscaux de 55 (2) L.I.R. et des conséquences fiscales",
+        "texte": "Considérant qu'aucun des éléments déclencheurs de l'alinéa 55 (3) a) L.I.R. ne survient dans le cadre de la présente série d'opérations, le paragraphe 55 (2) L.I.R. ne s'applique pas au présent rachat d'actions.",
+        "tableau": []
+      },
+      {
+        "ID": 35,
+        "Titre": "Gain ou perte en capital résultant de la disposition des actions",
+        "texte": "Lorsqu'une société rachète des actions de ses actionnaires, les actions rachetées sont réputées avoir fait l'objet d'une disposition², entraînant ainsi un gain ou une perte en capital³.\n\nConsidérant le dividende réputé versé en vertu du paragraphe 84(3) L.I.R., la disposition des [nombre d'actions] (x) actions de catégorie « x » rachetées par la société ne générera aucun gain ou perte en capital pour [nom de la société 1].",
+        "tableau": {
+          "header": [
+            "Description",
+            "Montant"
+          ],
+          "rows": [
+            [
+              "Produit de disposition",
+              "[montant]"
+            ],
+            [
+              "Dividende réputé (84(3) L.I.R.)",
+              "[montant]"
+            ],
+            [
+              "Prix de base rajusté",
+              "[montant]"
+            ],
+            [
+              "Gain ou (perte) en capital",
+              "[montant]"
+            ]
+          ]
+        },
+        "notes": "2. 84(9) L.I.R.\n3. Lafontaine, M., Babineau, M.-A. et al., Fiscalité spécialisée, 32e éd., Thomson Reuters, 2019, p 20."
+      },
+      {
+        "ID": 36,
+        "Titre": "Achat de gré à gré",
+        "texte": "Le [date], [nom de la société] procèdera au rachat des [nombre d'actions] (xx) actions de catégorie « x » de son capital-actions détenues par [nom] et [nom] en contrepartie d'un montant de xx DOLLARS (xx $) par action, payable comptant¹.\n\nSuite à ces rachats d'achats, les certificats de [nom] et [nom] devront être annulés. Les différents registres au livre de la société devront également être modifiés afin de refléter la réalité.",
+        "tableau": []
+      },
+      {
+        "ID": 37,
+        "Titre": "Liquidation de [nom de la société]",
+        "texte": "Le [date], [nom de la société] est liquidée en vertu du paragraphe 88 (2) L.I.R. et est réputée avoir payé un dividende de liquidation aux actionnaires, correspondant à la juste valeur marchande des biens lui appartenant immédiatement avant le moment donné. [nom] recevra donc un montant de XX DOLLARS (xx $), soit XX DOLLARS (xx $) par action.",
+        "tableau": {
+          "header": [
+            "Libellé",
+            "Montant ($)"
+          ],
+          "rows": [
+            ["Encaisse", "[montant]"],
+            ["Remboursement d'avance", "[montant]"],
+            ["Récupération d'IMRTD", "[montant]"],
+            ["Sous total", "[montant]"],
+            ["Impôt à payer", "[montant]"],
+            ["Honoraires professionnels", "[montant]"],
+            ["Versement CDC", "[montant]"],
+            ["TOTAL", "[montant]"]
+          ]
+        }
+      },
+      {
+        "ID": 38,
+        "Titre": "Liquidation et dissolution de [nom de la société] – 98 (3) L.I.R.",
+        "texte": "Le [date], en vertu du paragraphe 98 (3) L.I.R., les parties procèdent à la liquidation de [nom de la société]. En raison des étapes précédentes, [nom de la société 2] est le seul associé de [nom de la société]. Le notaire instrumentant au dossier effectuera toutes les vérifications nécessaires et publiera les renseignements requis pour le transfert de l'immeuble détenu par [nom de la société 2]. Par l'effet du paragraphe 98 (3) L.I.R., les biens attribués bénéficient d'un roulement fiscal. Afin de bénéficier de ce roulement, il est important de faire le choix fiscal sur le formulaire prescrit. Il n'y a donc pas d'impact fiscal immédiat sur l'impôt sur le revenu, le seul bien détenu étant un immeuble commercial.\n\nRelativement aux taxes à la consommation, la fourniture d'un immeuble est généralement taxable. Toutefois, lorsque la vente se fait en dehors du cadre d'une entreprise, le vendeur n'est pas tenu de s'inscrire aux fichiers TPS/TVQ ni de récupérer la taxe, puisque, en vertu du paragraphe 221 (2) de la Loi sur la taxe d'accise et de l'article 423 de la Loi sur la taxe de vente du Québec, le fournisseur n'est pas obligé de percevoir la taxe si l'acquéreur est inscrit. Dans ce cas, l'acquéreur remet lui-même la taxe dans sa déclaration, notamment s'il acquiert l'immeuble pour ses activités commerciales (les fournitures d'immeubles par bail étant considérées comme des activités commerciales).\n\nRelativement aux droits de mutation, la loi ne prévoit pas de transferts par des sociétés de personnes. Toutefois, le ministère des Finances du Québec a annoncé, dans le bulletin d'information 2017-14, que certaines exonérations s'appliqueraient aux sociétés de personnes pour des transferts effectués à partir du [date]. Les modifications devraient prévoir une exonération analogue à celle applicable aux personnes morales étroitement liées, avec les adaptations nécessaires pour appliquer le test de 90 % aux revenus ou pertes de la société de personnes.\n\nNous préparerons le choix fiscal sur le formulaire prescrit T2060, conformément aux paragraphes 98 (3) et 96 (4) L.I.R.\n\nDissolution volontaire de [nom de la société] : Malgré la réunion des parts de [nom] et [nom] de [nom de la société] au sein d'un seul associé (soit [nom de la société 2]), cette situation n'entraîne pas une dissolution immédiate de la s.e.n.c. Selon l'article 2230 du Code civil du Québec, le consentement de tous les associés permet la dissolution volontaire. Nous préparerons la demande de radiation au Registraire des entreprises en temps opportun.",
+        "tableau": []
+      },
+      {
+        "ID": 39,
+        "Titre": "Paiement du billet à demande",
+        "texte": "Le ou vers le [date], [nom] a vendu la totalité des actions de [nom de la société] pour un montant de XX DOLLARS (xx $). La convention d'achat-vente d'actions incluait une convention d'entiercement accessoire, laquelle impose notamment :\n• La remise des certificats d'actions au dépositaire [nom de la société 2]¹,\n• L'incessibilité des actions entiercées²,\n• L'obligation que [nom] détienne xx pour cent (xx %) des actions donnant droit de vote³,\n• L'obligation de [nom de la société 2], sous réserve de tout défaut de l'acheteur⁴, de libérer les actions entiercées et de remettre les certificats correspondants aux actionnaires une fois le prix de vente intégralement encaissé par le vendeur⁵.\n\nLa convention permet un paiement par anticipation sans indemnité⁶. Ainsi, à la date indiquée, le solde du prix de vente restant sera remboursé à monsieur [nom] avant d'entreprendre les étapes suivantes, sauf entente contraire entre les parties. Par ailleurs, une fusion de [nom de la société 3] entraînerait la perte du bénéfice du terme selon l'article 4.5 de la Convention d'achat-vente d'actions.\n\nLe [date], une entente a été conclue entre monsieur [nom] et [nom de la société 3] afin de réduire le solde de prix de vente à XX DOLLARS (xx $). À ce jour, un montant de XX DOLLARS (xx $) a été payé et il reste un solde de XX DOLLARS (xx $) à payer avant le [date], afin que monsieur [nom] libère les certificats d'actions déposés en gage.\n\nAu plus tard le [date], [nom de la société 4] remboursera à monsieur [nom] le solde du prix de vente restant sur la balance. Pour ce faire, [nom de la société 3] empruntera la somme nécessaire auprès de [nom de la société 4]. Cette avance inter-société sera annulée lors de la fusion ordinaire (étape 4.14 des présentes) et permettra de déduire ce montant, qui aurait autrement été considéré comme un actif excédentaire, dans l'analyse de l'exonération du gain en capital, tout en facilitant le désentiercement des actions de [nom de la société 3].",
+        "tableau": []
+      },
+      {
+        "ID": 40,
+        "Titre": "Changement d'adresse",
+        "texte": "Le ou vers le [date], [nom de la société] procédera au changement de son adresse pour le [adresse].",
+        "tableau": []
+      },
+      {
+        "ID": 41,
+        "Titre": "Convention entre actionnaires",
+        "texte": "Le [date], à 13h00, tous les actionnaires de la société [nom de la société] procèderont à la signature d'une convention entre actionnaires.",
+        "tableau": []
+      },
+      {
+        "ID": 42,
+        "Titre": "Vente de placements de [nom de la société] à des tiers",
+        "texte": "Le ou vers le [date], [nom de la société] a procédé à la vente des placements ci‑dessous. La vente de ces placements entraîne un gain en capital pour [nom de la société] qui sera attribué aux enfants recevant les fonds. Ainsi, [nom de la société] a réalisé un gain en capital imposable de XX DOLLARS (xx $) suite à la disposition de ces placements.\n\nPar l'effet des paragraphes 104 (6) et 104 (13) L.I.R., ce gain en capital imposable pourra être attribué aux bénéficiaires du revenu, réduisant ainsi le revenu de [nom de la société] à zéro. Toutefois, le gain imposable sera inclus dans les déclarations d'impôt personnel de chacun des enfants recevant le montant correspondant.\n\nNous préparerons les résolutions écrites des fiduciaires pour l'attribution du gain en capital imposable, d'un montant de XX DOLLARS (xx $) par enfant bénéficiaire, ce qui sera déduit de l'encaisse attribuée aux enfants à l'étape suivante.",
+        "tableau": {
+          "header": [
+            "BIENS",
+            "NOMBRE",
+            "PBR (PAR ACTION)",
+            "JVM (PAR ACTION)",
+            "JVM (TOTALE)"
+          ],
+          "rows": [
+            ["[nom du bien]", "[nombre]", "[montant]", "[montant]", "[montant]"],
+            ["[nom du bien]", "[nombre]", "[montant]", "[montant]", "[montant]"],
+            ["[nom du bien]", "[nombre]", "[montant]", "[montant]", "[montant]"],
+            ["[nom du bien]", "[nombre]", "[montant]", "[montant]", "[montant]"],
+            ["[nom du bien]", "[nombre]", "[montant]", "[montant]", "[montant]"]
+          ]
+        }
+      },
+      {
+        "ID": 43,
+        "Titre": "Attribution des biens de la Fiducie familiale aux bénéficiaires du capital",
+        "texte": "Le ou vers le [date], Fiducie familiale attribuera les biens ci‑dessous aux x (x) enfants de la famille [nom], en parts égales, à savoir :\n• [nom]\n• [nom]\n• [nom]\n• [nom]",
+        "tableau": []
+      },
+      {
+        "ID": 44,
+        "Titre": "Liquidation de la Fiducie familiale",
+        "texte": "Le [date], les fiduciaires de Fiducie [nom] procéderont à la liquidation de la fiducie familiale.\nSuite à l'attribution des biens aux étapes antérieures, le seul bien détenu par la Fiducie familiale à ce moment est le lingot d'argent remis par le constituant de la fiducie.\nNous préparerons les résolutions écrites des fiduciaires pour la liquidation de la Fiducie [date].",
+        "tableau": []
+      },
+      {
+        "ID": 45,
+        "Titre": "Détermination de bénéficiaires",
+        "texte": "Le [date], les fiduciaires de [nom de la fiducie] détermineront la société [nom du bénéficiaire] comme bénéficiaire de la fiducie par une directive écrite, conformément à l'acte de fiducie.",
+        "tableau": []
+      },
+      {
+        "ID": 46,
+        "Titre": "Donation à [nom]",
+        "texte": "[À une date à déterminer¹], [nom de la société] fera donation de [nombre d'actions] (xxx) actions de catégorie « x » du capital‑actions de [nom de la société] à [nom].\nConsidérant le sous‑alinéa 69 (1) b) (ii) L.I.R., en faisant don des actions, [nom de la société] est réputée avoir reçu, par suite du don, une contrepartie égale à la juste valeur marchande du bien. Dans la présente situation, elle est réputée avoir reçu une contrepartie de xx DOLLARS (xx $), montant égal au PBR des actions. Il n'y a donc pas de gains/pertes en capital résultant de cette donation.\nPour [nom], il est réputé acquérir le bien à sa juste valeur marchande. [nom] se retrouve donc avec un PBR de XX DOLLARS (xx $) sur les [nombre d'actions] (xxx) actions de catégorie « x » du capital‑actions de [nom de la société].\nLa donation des [nombre d'actions] (xxx) actions de catégorie « x » devra être faite par acte notarié.\n¹ Inscrire la date exacte de la rencontre de signatures avec le notaire.",
+        "tableau": []
+      },
+      {
+        "ID": 47,
+        "Titre": "Dissolution",
+        "texte": "Suite aux étapes mentionnées ci‑haut, il y aura dissolution de la société [nom de la société].",
+        "tableau": []
+      },
+      {
+        "ID": 48,
+        "Titre": "Vente de l'achalandage de [nom de la société] à [nom de la société]",
+        "texte": "Le [date], [nom de la société] procèdera à la vente de la totalité de son achalandage¹, incluant notamment le nom « [nom de la société] » et le site web à [nom de la société] pour un montant de XX DOLLARS (xx $), déterminé de la manière suivante :\nConsidérant le coût indiqué de l'achalandage pour [nom de la société], cette disposition entraîne un gain en capital imposable d'un montant de XX DOLLARS (xx $) pour la société. Toutefois, le compte de gain en capital sera augmenté de la partie non imposable du gain réalisé par la société, net de la partie non déductible des pertes en capital subies durant la même période.\nLes clients devront effectuer les démarches auprès de l'Autorité des marchés financiers (AMF) afin d'obtenir toutes les autorisations nécessaires au transfert de la clientèle et des différents contrats.",
+        "tableau": {
+          "header": [
+            "BIENS",
+            "PBR",
+            "PRODUIT DE DISPOSITION"
+          ],
+          "rows": [
+            [
+              "Achalandage",
+              "[montant]",
+              "[montant]"
+            ]
+          ]
+        }
+      },
+      {
+        "ID": 49,
+        "Titre": "Renonciation des actionnaires de [nom] à la convention entre actionnaires",
+        "texte": "Selon les clauses prévues à la section 7 de la convention entre actionnaires de [nom de la société], les actionnaires désirant vendre leurs actions doivent offrir ces actions aux autres, au prorata de leur détention dans la catégorie transférée.\nD'ici le [date], afin d'exécuter les transactions proposées sans se préoccuper de l'application automatique de ces clauses, tous les actionnaires devront renoncer à l'application de la convention entre actionnaires de [nom de la société] pour ces transactions.",
+        "tableau": []
+      },
+      {
+        "ID": 50,
+        "Titre": "Démission et nomination d'un administrateur dans [nom de la société]",
+        "texte": "Le [date], [nom] démissionnera de son poste d'administrateur dans la société [nom de la société]. Elle sera remplacée par [nom] qui agira à titre de président, secrétaire et trésorier pour la société.",
+        "tableau": []
+      },
+      {
+        "ID": 51,
+        "Titre": "Démission et nomination d'un fiduciaire – Fiducie familiale [nom]",
+        "texte": "Le [date], [nom] démissionnera de son poste de fiduciaire dans Fiducie familiale [nom]. Il sera remplacée par [nom] qui agira à titre de fiduciaire mandaté de la fiducie. Conformément à la clause 2.04.02 b) de l'acte de fiducie, cette nomination doit se faire par les fiduciaires en fonction, par un écrit sous seing privé devant deux (2) témoins ou par acte notarié.",
+        "tableau": []
+      },
+      {
+        "ID": 52,
+        "Titre": "Souscription d'actions – [nom de la société]",
+        "texte": "Le [date], les souscriptions suivantes auront lieu dans le capital-actions de [nom de la société] : Afin de concentrer l'accumulation de la plus-value future des actions de [nom de la société] dans [nom de l'actionnaire], ces dernières souscriront aux actions participantes émises par [nom de la société].\n\n[date] souscrit à [nombre d'actions] (xx) actions de catégorie « x » de [nom de la société 2] pour une contrepartie de xx DOLLARS (xx $), payable comptant; [nom de l'actionnaire] souscrit à [nombre d'actions] (xx) actions de catégorie « x » de [nom de la société] pour une contrepartie de XX DOLLARS (xx $), payable comptant.\n\nMessieurs [nom de l'actionnaire] et [nom de l'actionnaire] souscriront aux actions votantes de la société [nom de la société]: [nom de l'actionnaire] souscrit à [nombre d'actions] (xx) actions de catégorie « x » pour une contrepartie de XX DOLLARS (xx $) payable comptant; [nom de l'actionnaire] souscrit à [nombre d'actions] (xx) actions de catégorie « x » pour une contrepartie de XX DOLLARS (xx $) payable comptant.\n\nLes personnes ayant une contrepartie payable comptant doivent faire un chèque selon leurs montants respectifs en faveur de la société.",
+        "tableau": {
+          "header": [
+            "ACTIONNAIRES",
+            "ACTIONS EMISES",
+            "CV",
+            "PBR"
+          ],
+          "rows": [
+            ["inscrire le nom", "x « x »", "[montant]", "[montant]"],
+            ["inscrire le nom", "x « x »", "[montant]", "[montant]"],
+            ["inscrire le nom", "x « x »", "[montant]", "[montant]"],
+            ["inscrire le nom", "x « x »", "[montant]", "[montant]"]
+          ]
+        }
+      },
+      {
+        "ID": 53,
+        "Titre": "Vente de l'immeuble",
+        "texte": "Le [date], [nom de la société] vendra l'immeuble sis au [adresse], à [nom de la société], pour un montant de XX DOLLARS (xxx $), payable comptant.\n\nLe détail des ventes se fait de la manière suivante :\n• Traitement fiscal : Considérant le prix de base rajusté du terrain, il n'y aura pas de gain ou perte en capital sur la vente du terrain. Toutefois, compte tenu des attributs fiscaux de la bâtisse, un gain en capital imposable de XX DOLLARS (xxx $) sera réalisé sur la disposition de la bâtisse.\n• La disposition de la bâtisse aura pour effet de réduire la FNACC de la catégorie 1 de [nom de la société] du moindre du coût en capital ou du produit de disposition. Ainsi, la FNACC sera réduit de XX DOLLARS (xxx $), pour s'établir à XX DOLLARS (xxx $)...\n• Le prix de base rajusté de la bâtisse pour [nom de la société] sera de XX DOLLARS (xxx $). Toutefois, en raison de l'application de 13 (7) e) (ii) L.I.R., le coût en capital, aux fins de la déduction pour amortissement uniquement, sera de XX DOLLARS (xxx $). \nRègles sur les revenus passifs. \nEn vertu du paragraphe 129 (6) L.I.R., les revenus de loyer à percevoir par XX DOLLARS (xxx $) ne seront pas considérés comme un revenu de placement. Ces revenus seront plutôt considérés comme du revenu d'entreprise exploitée activement. \nTPS/TVQ \n Relativement aux lois sur les taxes à la consommation, la fourniture d'un immeuble est généralement taxable. Toutefois, lorsque la vente de l'immeuble se fait en dehors du cadre d'une entreprise, le vendeur n'est pas tenu de s'inscrire aux fichiers TPS/TVQ ni de récupérer la taxe, car le fournisseur d'un immeuble n'est généralement pas tenu de percevoir la taxe lorsque l'acquéreur, une société par actions, est inscrit. \nDéclaration et gestion de la taxe \n Dans cette situation, l'acquéreur doit déclarer lui-même la taxe payable à l'égard de la fourniture taxable de l'immeuble. L'acquéreur doit préparer le formulaire FP-500, accompagné de sa déclaration de taxes habituelle pour la période de la transaction. S'il est inscrit et qu'il acquiert l'immeuble principalement dans le cadre de ses activités commerciales, l'acquéreur aura droit à un remboursement intégral afin d'éviter une sortie de fonds. Selon les interprétations de la L.T.A. et de la L.T.V.Q., les fournitures d'immeubles par bail sont considérées comme des activités commerciales, permettant ainsi de réclamer les CTI/RTI pour compenser les taxes payables. \n Droits de mutation \n Considérant la vente de l'immeuble, l'acquéreur devra payer les droits de mutation. \nSommaire des conséquences fiscales \nVoici un tableau récapitulatif des conséquences fiscales :",
+        "tableau": {
+          "header": [
+            "Description",
+            "Montant"
+          ],
+          "rows": [
+            ["Récupération d'amortissement", "[montant]"],
+            ["Droits de mutation", "[montant]"],
+            ["TOTAL", "[montant]"]
+          ]
+        }
+      },
+      {
+        "ID": 54,
+        "Titre": "Déclaration d'un dividende en capital (rachat d'actions)",
+        "texte": "Le [date], [nom de la société] déclarera un dividende en capital d'un montant total de X DOLLARS (XX $) sur ses actions de catégorie « x » et « x » détenues respectivement par [nom de la société] et [nom de la société].\n\nVersement de plusieurs dividendes : Considérant la détention des actions participantes de la société, le montant total des dividendes se répartit comme suit. La déclaration de ce dividende en capital devra être constatée par une résolution du conseil d'administration. Ces montants seront versés sur le compte de dividende en capital de la société. Ce dividende est payable à l'aide d'un billet à demande ne portant pas intérêt, en paiement final et absolu desdits dividendes.\n\nNous préparerons les formulaires T2054 et CO-502 avant le versement de ce dividende.",
+        "tableau": {
+          "header": [
+            "ACTIONNAIRES",
+            "CATÉGORIE D'ACTIONS",
+            "MONTANT"
+          ],
+          "rows": [
+            [
+              "Nom de la société 2",
+              "« B-1 »",
+              "[montant]"
+            ],
+            [
+              "Nom de la société 2",
+              "« B-2 »",
+              "[montant]"
+            ]
+          ]
+        }
+      },
+      {
+        "ID": 55,
+        "Titre": "Augmentation du CV des actions de catégorie « A » de [nom de la société]",
+        "texte": "Le [date], [nom de la société] procédera à l'augmentation du CV des actions de catégorie «A» de son capital-actions émises et en circulation, pour un total de XX DOLLARS (xx $), soit un montant équivalent au revenu protégé attribuable à ces actions. Cette augmentation de CV sera répartie comme suit :",
+        "tableaux": [
+          {
+            "titre": "Répartition de l'augmentation de CV",
+            "tableau": {
+              "header": [
+                "Actionnaire",
+                "Actions visées par l'augmentation de CV",
+                "Augmentation de CV"
+              ],
+              "rows": [
+                [
+                  "Inscrire le nom de la société",
+                  "xx actions de catégorie «A»",
+                  "Xx $"
+                ]
+              ]
+            }
+          },
+          {
+            "titre": "Dividende réputé",
+            "tableau": {
+              "header": [
+                "Actionnaire",
+                "Dividende réputé reçu"
+              ],
+              "rows": [
+                [
+                  "Inscrire le nom de la société",
+                  "[montant]"
+                ]
+              ]
+            }
+          },
+          {
+            "titre": "Caractéristiques fiscales après augmentation",
+            "tableau": {
+              "header": [
+                "Actionnaire",
+                "Actions de",
+                "PBR",
+                "CV",
+                "JVM"
+              ],
+              "rows": [
+                [
+                  "Inscrire le nom de la société",
+                  "xx actions de catégorie «A»",
+                  "[montant]",
+                  "[montant]",
+                  "[montant]"
+                ]
+              ]
+            }
+          }
+        ],
+        "texte2": "Le paragraphe 55(2) LIR ne s'appliquera pas au dividende réputé reçu par [nom de la société] lors de l'augmentation de CV, puisque ce dividende est égal au revenu protégé attribuable aux actions de catégorie «A». Par ailleurs, le PBR des actions de catégorie «A» détenues par l'actionnaire sera également augmenté d'un montant correspondant à l'augmentation de CV de ses actions.\n\n1 Paragraphe 84(1). 2 Paragraphe 84(1). 3 Alinéa 55(2.1)c) LIR. 4 Alinéa 53(1)b) LIR. 5 Alinéa 53(1)b) LIR.",
+        "notes": "1. Paragraphe 84(1)\n2. Paragraphe 84(1)\n3. Alinéa 55(2.1)c) LIR\n4. Alinéa 53(1)b) LIR\n5. Alinéa 53(1)b) LIR"
+      },
+      {
+        "ID": 56,
+        "Titre": "Transfert d'actions en faveur de Fiducie personnelle",
+        "texte": "Le ● février 2021, ● transfèrera les placements suivants à Fiducie personnelle ● :",
+        "tableau": {
+          "header": [
+            "Société",
+            "Nombre",
+            "Catégorie",
+            "PBR",
+            "CV",
+            "JVM",
+            "Total"
+          ],
+          "rows": [
+            ["[nom de la société]", "[nombre]", "[catégorie]", "[montant]", "[montant]", "[montant]", "[montant]"]
+          ]
+        },
+        "texte2": "Compte tenu du fait que Fiducie personnelle ● se qualifie de fiducie « pour soi »¹, ce transfert donnera lieu à un roulement fiscal automatique, en vertu de l'article 73 LIR. Par conséquent, M. ● sera réputé avoir disposé des placements pour un produit égal à leur PBR, de sorte qu'il n'en résultera aucun gain ni aucune perte en capital. Cependant, cette disposition devra être indiquée dans les déclarations de revenus de M. ● produites pour l'année d'imposition se terminant le ●.\n\nTout revenu généré par les actifs transférés à la fiducie sera imposé directement entre les mains de M. ●, en vertu de l'article 75 LIR. (1 C'est-à-dire qu'elle respecte les exigences prévues aux paragraphes 73(1.01) et (1.02) LIR.)"
+      },
+      {
+        "ID": 57,
+        "Titre": "Purification des actifs de la société [nom de la société]",
+        "texte": "Les étapes suivantes seront nécessaires pour la purification des actifs de la société:",
+        "substeps": [
+          {
+            "Titre": "Remboursement des avances par les actionnaires",
+            "texte": "D'ici la date de la transaction, les actionnaires de [nom de la société] devront rembourser les avances consenties par la société. Les avances suivantes seront remboursées par les actionnaires.",
+            "tableau": {
+              "header": [
+                "Actionnaires",
+                "Avances remboursées"
+              ],
+              "rows": [
+                ["[nom de l'actionnaire]", "[montant]"]
+              ]
+            }
+          },
+          {
+            "Titre": "Remboursement des avances par les administrateurs",
+            "texte": "D'ici la date de la transaction, les administrateurs de [nom de la société] devront rembourser les avances consenties par la société. Les avances suivantes seront remboursées par les administrateurs.",
+            "tableau": {
+              "header": [
+                "Administrateurs",
+                "Avances remboursées"
+              ],
+              "rows": [
+                [
+                  "Total",
+                  "[montant]"
+                ]
+              ]
+            }
+          },
+          {
+            "Titre": "Avances intersociétés",
+            "texte": "D'ici la date de la transaction, toutes les avances intersociétés impliquant la société [nom de la société] devront être remboursées. En date de ce jour, les avances sont les suivantes :\n• Groupe Immobilier MLG inc. doit un montant de 69 131.96$ à MLG;\n• Gagnon Moteur Électrique inc. doit un montant de 80 120.00$ à MLG;\n• Dette envers J-C Lafond ?",
+            "tableau": []
+          },
+          {
+            "Titre": "Analyse des biens",
+            "texte": "D'ici la date de la transaction, à l'exclusion de l'immeuble utilisé par [nom de la société], tous les biens utilisés par cette dernière devront être détenus par la société. À cet effet, tous les prêts/dettes afférents aux biens utilisés par [nom de la société] devront avoir [nom de la société] comme seule débitrice.",
+            "tableau": []
+          },
+          {
+            "Titre": "Encaisse excédentaire",
+            "texte": "D'ici la date de la transaction, la société [nom de la société] ne devra avoir aucune encaisse excédentaire. Dans le cas où les transactions proposées ci-haut ne seraient pas effectuées d'ici la date de la transaction, cela entraînera des ajustements sur le prix de vente des actions de [nom de la société].",
+            "tableau": []
+          }
+        ]
+      },
+      {
+        "ID": 58,
+        "Titre": "Calcul du revenu protégé",
+        "texte": "D'ici le [date], les parties procéderont au calcul du revenu protégé de chacune des catégories d'actions du capital-actions des sociétés [nom de la société]. Le calcul du revenu protégé des actions de [nom de la société] sera préparé par [nom]. Le revenu protégé pour chacun des actionnaires se détaille comme suit :",
+        "tableau": {
+          "header": [
+            "Actionnaires",
+            "Actions",
+            "JVM",
+            "Revenu protégé fédéral",
+            "Revenu protégé provincial"
+          ],
+          "rows": [
+            [
+              "[nom de l'actionnaire]",
+              "[nombre] « [catégorie] »",
+              "[montant]",
+              "[montant]",
+              "[montant]"
+            ],
+            [
+              "[nom de l'actionnaire]",
+              "[nombre] « [catégorie] »",
+              "[montant]",
+              "[montant]",
+              "[montant]"
+            ],
+            [
+              "Total",
+              "[nombre] « [catégorie] »",
+              "[montant]",
+              "[montant]",
+              "[montant]"
+            ]
+          ]
+        },
+        "texte2": "Moment de détermination du revenu protégé : Considérant le paragraphe 55 (1) L.I.R. et la vente des actions de [nom de la société] à l'étape précédente, le moment de détermination du revenu protégé est fixé au [date]."
+      },
+      {
+        "ID": 59,
+        "Titre": "Compensation des billets à demande",
+        "texte": "En vertu de l'étape Erreur! Source du renvoi introuvable., [nom de la société] doit un montant de [MONTANT DOLLARS (montant $)] à [nom de la société], sous forme d'un billet à demande.\nEn vertu de l'étape Erreur! Source du renvoi introuvable., [nom de la société] doit un montant de [MONTANT DOLLARS (montant $)] à [nom de la société], sous forme d'un billet à demande.\n[nom de la société] et [nom de la société] compenseront leurs billets respectifs. Ainsi, un nouveau billet devra être émis en faveur de [nom de la société] au montant de [MONTANT DOLLARS (montant $)] représentant le solde de la dette de [nom de la société] envers [nom de la société].",
+        "tableau": []
+      },
+      {
+        "ID": 60,
+        "Titre": "Prêt en faveur de [nom de la société]",
+        "texte": "Le [date], [nom de la société] consentira un prêt en faveur de [nom de la société] d'un montant de [xx DOLLARS] (xx $).",
+        "tableau": []
+      },
+      {
+        "ID": 61,
+        "Titre": "Vente d'actions de contrôle",
+        "texte": "Le [date], [nom de la société] vendra [nombre actions] actions de catégorie « x » du capital-actions de [nom de la société 1] à la société [nom de la société 2] pour un montant de [DOLLARS] (xx $), payable comptant.\nAfin de respecter la Loi sur les droits de mutation, [nom de la société] devra détenir ces actions pendant au moins deux (2) ans.\nEn raison du paragraphe 256 (7) L.I.R. et du lien entre [nom de la société] et [nom de la société], l'acquisition des actions de vote de [nom de la société 1] par [nom de la société 2] n'entraînera pas de conséquences fiscales.",
+        "tableau": []
+      },
+      {
+        "ID": 62,
+        "Titre": "Rachat des actions de catégorie « X » de [nom de la société]",
+        "texte": "Le [date], [nom de la société] va procéder au rachat de gré à gré de la totalité des actions de son capital-actions détenues par [nom de l'actionnaire] en contrepartie d'un montant total de X DOLLARS (x $), payable par l'émission d'un billet à demande du même montant.\nSuite à ce rachat d'actions, les certificats d'actions de [nom de l'actionnaire] devront être annulés, et les différents registres au livre de la société modifiés pour refléter les transactions effectuées.",
+        "tableau": {
+          "header": [
+            "Vendeur",
+            "Acquéreur",
+            "Biens vendus",
+            "CV",
+            "PBR",
+            "Produit de disposition"
+          ],
+          "rows": [
+            [
+              "[nom de l'actionnaire]",
+              "« [catégorie] »",
+              "[montant]",
+              "[montant]",
+              "[montant]",
+              "[montant]"
+            ]
+          ]
+        }
+      },
+      {
+        "ID": 63,
+        "Titre": "Traitement fiscal – Dividende réputé",
+        "texte": "L'achat de gré à gré des actions décrites entraîne le versement d'un dividende réputé en vertu du paragraphe 84(3) L.I.R., correspondant à l'excédent du coût de rachat sur le capital versé desdites actions. Ainsi, un dividende réputé de X DOLLARS (x $) sera versé à [nom de l'actionnaire] lors du rachat des actions de [nom de la société].",
+        "tableau": {
+          "header": [
+            "Description",
+            "Montant"
+          ],
+          "rows": [
+            [
+              "Sommes reçues lors du rachat des actions",
+              "[montant]"
+            ],
+            [
+              "Capital versé des actions rachetées",
+              "[montant]"
+            ],
+            [
+              "Dividende réputé en vertu de 84(3) L.I.R.",
+              "[montant]"
+            ]
+          ]
+        }
+      },
+      {
+        "ID": 64,
+        "Titre": "Application du paragraphe 55(2) L.I.R.",
+        "texte": "L'analyse de l'application du paragraphe 55(2) L.I.R. au présent dividende réputé est reproduite en annexe C de la présente note de planification fiscale, préparée par Daigle & Matte, avocats fiscalistes inc.",
+        "tableau": []
+      },
+      {
+        "ID": 65,
+        "Titre": "Impôt de la Partie IV",
+        "texte": "[nom de l'actionnaire] n'aura pas à payer d'impôt de la Partie IV suite au versement du dividende réputé par [nom de la société] puisque les deux (2) sociétés sont rattachées¹ et que la société n'a pas obtenu de remboursement significatif au titre de dividendes (RTD) au cours de l'année.",
+        "tableau": [],
+        "notes": "1 186(2) et (4) L.I.R."
+      },
+      {
+        "ID": 66,
+        "Titre": "Traitement fiscal du gain en capital",
+        "texte": "Le calcul du produit de disposition est le suivant :",
+        "tableau": {
+          "header": [
+            "Élément",
+            "Montant"
+          ],
+          "rows": [
+            [
+              "Prix de rachat des actions",
+              "[montant]"
+            ],
+            [
+              "Dividende réputé (84(3) L.I.R.)",
+              "[montant]"
+            ],
+            [
+              "Produit de disposition ajusté",
+              "[montant]"
+            ],
+            [
+              "Prix de base rajusté",
+              "[montant]"
+            ],
+            [
+              "Gain en capital",
+              "[montant]"
+            ],
+            [
+              "Gain en capital imposable (50 %)",
+              "[montant]"
+            ],
+            [
+              "Taux d'imposition",
+              "[montant] %"
+            ],
+            [
+              "Impôt payable",
+              "[montant]"
+            ]
+          ]
+        },
+        "texte2": "Suite à cette transaction, il n'y aura aucun impôt payable."
+      },
+      {
+        "ID": 67,
+        "Titre": "Vente d'actifs à [nom de la société]",
+        "texte": "Le [date], [nom de l'actionnaire] a vendu les actifs décrits ci-après à [nom de la société] pour une contrepartie totale de X DOLLARS (x $) payable comptant :",
+        "tableau": {
+          "header": [
+            "Biens vendus",
+            "Coût",
+            "PD",
+            "G/C",
+            "FNACC",
+            "Récup."
+          ],
+          "rows": [
+            [
+              "Droit dans le bail",
+              "[montant]",
+              "[montant]",
+              "[montant]",
+              "N/A",
+              "N/A"
+            ],
+            [
+              "Total",
+              "[montant]",
+              "[montant]",
+              "[montant]",
+              "N/A",
+              "[montant]"
+            ]
+          ]
+        }
+      },
+      {
+        "ID": 68,
+        "Titre": "Signature d'un bail commercial entre [nom] et [nom]",
+        "texte": "Le [date], [nom] signera un bail avec [nom de la société] pour la location du condo commercial qu'elle utilise pour l'exploitation de sa clinique.\n\nLe bail comprendra entre autres les clauses suivantes :\n• Loyer mensuel de X DOLLARS (X $), plus taxes, payable le premier (1er) jour de chaque mois, lequel loyer devra être indexé annuellement;\n• L'ensemble des frais relatifs aux locaux loués (ex. électricité, taxes municipales, etc.) est assumé par le locataire;\n• Possibilité de résiliation unilatérale par [nom] moyennant un préavis de dix (10) jours;\n• Résiliation réputée la veille de la faillite ou d'une proposition concordataire refusée par [nom de la société].",
+        "tableau": []
+      },
+      {
+        "ID": 69,
+        "Titre": "Convention de licence",
+        "texte": "Le [date], [nom de la société] consentira une licence exclusive au Canada à [nom de la société] pour l'usage des marques de commerce « nom » et « nom » détenues par [nom de la société].\n\nLa convention de licence comprendra entre autres les clauses suivantes :\n• Redevances annuelles représentant X POUR CENT (x %) du chiffre d'affaires annuel de l'exercice précédent, plus taxes, payable dix (10) jours après réception des états financiers;\n• Mention explicite que la valeur des redevances ne sera pas influencée par l'acceptation ou le refus de l'enregistrement de la marque « nom » par l'Office de la propriété intellectuelle du Canada;\n• Bénéficiaire d'un mécanisme de contrôle de la qualité et des caractéristiques des produits liés à l'usage des marques;\n• Possibilité d'exiger l'affichage d'un avis public de licence pour bénéficier d'une présomption légale supplémentaire;\n• Possibilité de résiliation unilatérale par [nom de la société] moyennant un préavis d'un (1) mois;\n• Résiliation réputée la veille de la faillite ou d'une proposition concordataire refusée visant [nom de la société];\n• Durée de 5 ans, renouvelable automatiquement sauf avis contraire.",
+        "tableau": []
+      }
+    ]
+  }

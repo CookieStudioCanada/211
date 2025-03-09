@@ -1,0 +1,349 @@
+{
+  "etapes": [
+    {
+      "ID": 1,
+      "titre": "Création de Fiducie familiale",
+      "description": "Constitution d'une fiducie entre vifs avec définition des fiduciaires, bénéficiaires et modalités de gestion du patrimoine familial."
+    },
+    {
+      "ID": 2,
+      "titre": "Constitution d'une société",
+      "description": "Création d'une société sous le régime de la Loi sur les sociétés par actions du Québec avec définition du capital-actions et structure administrative."
+    },
+    {
+      "ID": 3,
+      "titre": "Modification du capital-actions",
+      "description": "Restructuration du capital-actions pour inclure de nouvelles catégories d'actions et conversion des actions existantes."
+    },
+    {
+      "ID": 4,
+      "titre": "Changement de dénomination sociale",
+      "description": "Modification des statuts pour changer le nom de la société."
+    },
+    {
+      "ID": 5,
+      "titre": "Mise à jour du livre corporatif",
+      "description": "Actualisation des registres corporatifs pour refléter les transactions non documentées."
+    },
+    {
+      "ID": 6,
+      "titre": "Ouverture d'un compte bancaire pour Fiducie familiale",
+      "description": "Établissement d'un compte bancaire pour la fiducie avec les documents requis."
+    },
+    {
+      "ID": 7,
+      "titre": "Rachat des actions de catégorie « x »",
+      "description": "Rachat d'actions spécifiques du capital-actions avec mise à jour des registres."
+    },
+    {
+      "ID": 8,
+      "titre": "Vente directe à Gestion",
+      "description": "Transaction de vente d'actions avec analyse des impacts fiscaux selon l'article 84.1 L.I.R."
+    },
+    {
+      "ID": 9,
+      "titre": "Roulement d'actions",
+      "description": "Transfert d'actions sans incidence fiscale immédiate selon le paragraphe 85(1) L.I.R."
+    },
+    {
+      "ID": 10,
+      "titre": "Roulement d'un terrain",
+      "description": "Transfert d'un immeuble sans incidence fiscale immédiate avec détails des contreparties."
+    },
+    {
+      "ID": 11,
+      "titre": "Conditions du transfert d'actions",
+      "description": "Définition des modalités de transfert d'actions incluant les clauses d'ajustement de prix."
+    },
+    {
+      "ID": 12,
+      "titre": "Transfert de terrain pour protection de la bâtisse commerciale",
+      "description": "Transaction immobilière pour sécuriser une bâtisse commerciale avec implications fiscales."
+    },
+    {
+      "ID": 13,
+      "titre": "Roulement des actifs",
+      "description": "Transfert d'actifs d'entreprise sans incidence fiscale immédiate avec détail des biens transférés."
+    },
+    {
+      "ID": 14,
+      "titre": "Conditions du transfert d'actions",
+      "description": "Spécification des conditions de transfert d'actions avec mécanismes d'ajustement."
+    },
+    {
+      "ID": 15,
+      "titre": "Application de la TPS et de la TVQ à la transaction",
+      "description": "Traitement des taxes de vente applicables à la transaction entre parties."
+    },
+    {
+      "ID": 16,
+      "titre": "Gel successoral par échange d'actions",
+      "description": "Mise en place d'un gel successoral via échange d'actions sans incidence fiscale."
+    },
+    {
+      "ID": 17,
+      "titre": "Échange d'actions",
+      "description": "Échange d'actions selon les articles 51 L.I.R. et 301 L.I. sans incidence fiscale."
+    },
+    {
+      "ID": 18,
+      "titre": "Déclaration de dividendes en actions",
+      "description": "Distribution de dividendes sous forme d'actions avec implications fiscales."
+    },
+    {
+      "ID": 19,
+      "titre": "Souscription d'actions",
+      "description": "Émission de nouvelles actions pour concentrer la plus-value future."
+    },
+    {
+      "ID": 20,
+      "titre": "Déclaration d'un dividende",
+      "description": "Distribution de dividendes avec production des documents fiscaux requis."
+    },
+    {
+      "ID": 21,
+      "titre": "Déclaration d'un dividende",
+      "description": "Versement de dividendes par émission de billet à demande."
+    },
+    {
+      "ID": 22,
+      "titre": "Fusion verticale simplifiée",
+      "description": "Fusion de sociétés avec implications fiscales et administratives."
+    },
+    {
+      "ID": 23,
+      "titre": "Fusion ordinaire",
+      "description": "Fusion de sociétés avec réorganisation du capital-actions."
+    },
+    {
+      "ID": 24,
+      "titre": "Fractionnement d'actions",
+      "description": "Division d'actions existantes en multiple actions de même catégorie."
+    },
+    {
+      "ID": 25,
+      "titre": "Épuration de la société – Encaisse Excédentaire",
+      "description": "Distribution des liquidités excédentaires pour optimisation fiscale."
+    },
+    {
+      "ID": 26,
+      "titre": "Épuration de la société – Autres biens",
+      "description": "Vérification des biens non utilisés dans l'exploitation active."
+    },
+    {
+      "ID": 27,
+      "titre": "Épuration de la société – Avances aux actionnaires",
+      "description": "Régularisation des avances aux actionnaires par dividendes."
+    },
+    {
+      "ID": 28,
+      "titre": "Obtention d'un financement",
+      "description": "Mise en place d'un financement structuré auprès de différentes sources."
+    },
+    {
+      "ID": 29,
+      "titre": "Application du paragraphe 164 (6) L.I.R.",
+      "description": "Traitement fiscal des revenus d'une succession selon la loi de l'impôt."
+    },
+    {
+      "ID": 30,
+      "titre": "Achat d'actions de gré à gré",
+      "description": "Transaction d'achat d'actions avec émission de billet à demande."
+    },
+    {
+      "ID": 31,
+      "titre": "Dividende réputé",
+      "description": "Calcul et traitement du dividende réputé selon le paragraphe 84(3) L.I.R."
+    },
+    {
+      "ID": 32,
+      "titre": "Impôt de la Partie IV",
+      "description": "Analyse de l'application de l'impôt de la Partie IV sur les dividendes."
+    },
+    {
+      "ID": 33,
+      "titre": "Remboursement au titre de dividende",
+      "description": "Évaluation des possibilités de remboursement sur dividendes versés."
+    },
+    {
+      "ID": 34,
+      "titre": "Analyse de l'application des impacts fiscaux de 55 (2) L.I.R.",
+      "description": "Étude des conséquences fiscales selon le paragraphe 55(2) L.I.R."
+    },
+    {
+      "ID": 35,
+      "titre": "Gain ou perte en capital résultant de la disposition des actions",
+      "description": "Calcul des impacts fiscaux liés à la disposition d'actions."
+    },
+    {
+      "ID": 36,
+      "titre": "Achat de gré à gré",
+      "description": "Rachat d'actions avec paiement comptant et mise à jour des registres."
+    },
+    {
+      "ID": 37,
+      "titre": "Liquidation de la société",
+      "description": "Processus de liquidation avec calcul du dividende de liquidation."
+    },
+    {
+      "ID": 38,
+      "titre": "Liquidation et dissolution – 98 (3) L.I.R.",
+      "description": "Liquidation selon le paragraphe 98(3) L.I.R. avec implications fiscales."
+    },
+    {
+      "ID": 39,
+      "titre": "Paiement du billet à demande",
+      "description": "Remboursement de billet à demande avec conditions d'entiercement."
+    },
+    {
+      "ID": 40,
+      "titre": "Changement d'adresse",
+      "description": "Modification de l'adresse officielle de la société."
+    },
+    {
+      "ID": 41,
+      "titre": "Convention entre actionnaires",
+      "description": "Signature d'une convention régissant les relations entre actionnaires."
+    },
+    {
+      "ID": 42,
+      "titre": "Vente de placements à des tiers",
+      "description": "Disposition de placements avec attribution des gains en capital."
+    },
+    {
+      "ID": 43,
+      "titre": "Attribution des biens aux bénéficiaires du capital",
+      "description": "Distribution des biens de la fiducie aux bénéficiaires désignés."
+    },
+    {
+      "ID": 44,
+      "titre": "Liquidation de la Fiducie familiale",
+      "description": "Processus de liquidation finale de la fiducie familiale."
+    },
+    {
+      "ID": 45,
+      "titre": "Détermination de bénéficiaires",
+      "description": "Désignation formelle de nouveaux bénéficiaires de la fiducie."
+    },
+    {
+      "ID": 46,
+      "titre": "Donation",
+      "description": "Don d'actions avec implications fiscales selon 69(1) L.I.R."
+    },
+    {
+      "ID": 47,
+      "titre": "Dissolution",
+      "description": "Procédure de dissolution de la société."
+    },
+    {
+      "ID": 48,
+      "titre": "Vente de l'achalandage",
+      "description": "Cession de l'achalandage et actifs incorporels de l'entreprise."
+    },
+    {
+      "ID": 49,
+      "titre": "Renonciation à la convention entre actionnaires",
+      "description": "Abandon des droits prévus à la convention pour faciliter les transactions."
+    },
+    {
+      "ID": 50,
+      "titre": "Démission et nomination d'un administrateur",
+      "description": "Changement dans la structure administrative de la société."
+    },
+    {
+      "ID": 51,
+      "titre": "Démission et nomination d'un fiduciaire",
+      "description": "Modification de la composition des fiduciaires de la fiducie."
+    },
+    {
+      "ID": 52,
+      "titre": "Souscription d'actions",
+      "description": "Émission de nouvelles actions pour réorganisation du capital."
+    },
+    {
+      "ID": 53,
+      "titre": "Vente de l'immeuble",
+      "description": "Transaction immobilière avec analyse des implications fiscales."
+    },
+    {
+      "ID": 54,
+      "titre": "Déclaration d'un dividende en capital",
+      "description": "Distribution de dividende en capital avec documentation fiscale."
+    },
+    {
+      "ID": 55,
+      "titre": "Augmentation du CV des actions",
+      "description": "Majoration du capital versé des actions avec ajustements fiscaux."
+    },
+    {
+      "ID": 56,
+      "titre": "Transfert d'actions en faveur de Fiducie personnelle",
+      "description": "Transfert d'actions à une fiducie avec roulement fiscal."
+    },
+    {
+      "ID": 57,
+      "titre": "Purification des actifs de la société",
+      "description": "Nettoyage des actifs non essentiels de la société."
+    },
+    {
+      "ID": 58,
+      "titre": "Calcul du revenu protégé",
+      "description": "Évaluation du revenu protégé pour chaque catégorie d'actions."
+    },
+    {
+      "ID": 59,
+      "titre": "Compensation des billets à demande",
+      "description": "Règlement des billets à demande entre sociétés."
+    },
+    {
+      "ID": 60,
+      "titre": "Prêt en faveur de la société",
+      "description": "Octroi d'un prêt intersociétés."
+    },
+    {
+      "ID": 61,
+      "titre": "Vente d'actions de contrôle",
+      "description": "Cession d'actions avec considérations de contrôle."
+    },
+    {
+      "ID": 62,
+      "titre": "Rachat des actions de catégorie « X »",
+      "description": "Rachat d'actions spécifiques contre billet à demande."
+    },
+    {
+      "ID": 63,
+      "titre": "Traitement fiscal – Dividende réputé",
+      "description": "Analyse du dividende réputé selon 84(3) L.I.R."
+    },
+    {
+      "ID": 64,
+      "titre": "Application du paragraphe 55(2) L.I.R.",
+      "description": "Évaluation des implications du paragraphe 55(2) L.I.R."
+    },
+    {
+      "ID": 65,
+      "titre": "Impôt de la Partie IV",
+      "description": "Analyse de l'application de l'impôt sur les sociétés rattachées."
+    },
+    {
+      "ID": 66,
+      "titre": "Traitement fiscal du gain en capital",
+      "description": "Calcul détaillé des implications fiscales du gain en capital."
+    },
+    {
+      "ID": 67,
+      "titre": "Vente d'actifs",
+      "description": "Transaction de vente d'actifs avec calcul des gains/pertes."
+    },
+    {
+      "ID": 68,
+      "titre": "Signature d'un bail commercial",
+      "description": "Établissement d'un contrat de location commerciale."
+    },
+    {
+      "ID": 69,
+      "titre": "Convention de licence",
+      "description": "Accord de licence pour l'utilisation de marques de commerce."
+    }
+  ]
+} 
