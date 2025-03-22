@@ -1,6 +1,7 @@
 // Store our data
 let taxSteps = null;
 let detailedSteps = null;
+let quill = null;
 
 // Predefined scenarios
 const scenarios = {
@@ -59,6 +60,33 @@ document.getElementById('scenarioSelect').addEventListener('change', function(e)
   } else {
     promptArea.value = '';
   }
+});
+
+// Initialize Quill editor
+document.addEventListener('DOMContentLoaded', function() {
+  quill = new Quill('#editor', {
+    theme: 'snow',
+    modules: {
+      toolbar: [
+        ['bold', 'italic', 'underline', 'strike'],
+        ['blockquote', 'code-block'],
+        [{ 'header': 1 }, { 'header': 2 }],
+        [{ 'list': 'ordered'}, { 'list': 'bullet' }],
+        [{ 'script': 'sub'}, { 'script': 'super' }],
+        [{ 'indent': '-1'}, { 'indent': '+1' }],
+        [{ 'size': ['small', false, 'large', 'huge'] }],
+        [{ 'header': [1, 2, 3, 4, 5, 6, false] }],
+        [{ 'color': [] }, { 'background': [] }],
+        [{ 'font': [] }],
+        [{ 'align': [] }],
+        ['clean']
+      ]
+    },
+    placeholder: 'Le plan fiscal détaillé apparaîtra ici...',
+  });
+  
+  // Load tax steps after Quill is initialized
+  loadTaxSteps();
 });
 
 // Load tax planning steps when page loads
@@ -254,7 +282,7 @@ Do not return explanatory text, only the JSON ID array.`,
     }
 
     // Display results
-    console.log('Displaying results...');
+    console.log('Displaying results');
     displayResults(selectedDetailedSteps, noteResult.data);
     console.log('Results displayed successfully');
   } catch (error) {
@@ -268,47 +296,145 @@ Do not return explanatory text, only the JSON ID array.`,
 
 // Display results
 function displayResults(steps, note) {
-  console.log('Rendering results...');
-  console.log('Steps to display:', steps.length);
+  console.log('Displaying results');
   
-  // Display selected steps from summary.json
+  // Display selected steps with numbers and improved styling
   const stepsContainer = document.getElementById('selectedSteps');
-  stepsContainer.innerHTML = taxSteps
-    .filter(step => steps.some(s => s.ID === step.ID))
-    .map(step => `
-      <div class="list-group-item">
-        <h6 class="mb-2">${step.titre}</h6>
-        <p class="mb-1">${step.description}</p>
+  stepsContainer.innerHTML = steps.map((step, index) => `
+    <div class="list-group-item d-flex align-items-start">
+      <div class="me-3">
+        <span class="badge bg-primary rounded-pill fs-6">${index + 1}</span>
       </div>
-    `).join('');
-  console.log('Steps rendered');
-
-  // Display detailed plan
-  console.log('Formatting note:', note.substring(0, 100) + '...');
-  const planContainer = document.getElementById('detailedPlan');
-  planContainer.innerHTML = formatNote(note);
-  console.log('Note rendered');
-
+      <div>
+        <h5 class="mb-1">${step.Titre || step.titre}</h5>
+        ${step.description ? `<p class="mb-1 text-muted">${step.description}</p>` : ''}
+      </div>
+    </div>
+  `).join('');
+  
+  // Display detailed note using Quill
+  quill.root.innerHTML = formatNote(note);
+  
   // Show results section
   document.getElementById('results').classList.remove('d-none');
-  console.log('Results section shown');
+  setLoading(false);
 }
 
 // Format note text with markdown-like syntax
 function formatNote(text) {
   console.log('Formatting note text...');
   
-  const formatted = text
-    .replace(/^# (.*$)/gm, '<h1>$1</h1>')
-    .replace(/^## (.*$)/gm, '<h2>$1</h2>')
-    .replace(/^### (.*$)/gm, '<h3>$1</h3>')
-    .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
-    .replace(/\*(.*?)\*/g, '<em>$1</em>')
-    .replace(/\n\n/g, '</p><p>')
-    .replace(/\n/g, '<br>')
-    .replace(/^/, '<p>')
-    .replace(/$/, '</p>');
+  // First, handle any JSON table objects
+  if (typeof text === 'object' && text.tableau) {
+    const { header, rows } = text.tableau;
+    return `
+      <div class="table-responsive">
+        <table class="table table-bordered table-striped">
+          <thead class="thead-light">
+            <tr>
+              ${header.map(h => `<th scope="col">${h}</th>`).join('')}
+            </tr>
+          </thead>
+          <tbody>
+            ${rows.map(row => `
+              <tr>
+                ${row.map(cell => `<td>${cell}</td>`).join('')}
+              </tr>
+            `).join('')}
+          </tbody>
+        </table>
+      </div>
+    `;
+  }
+
+  // For text content, process step by step
+  let formatted = text;
   
+  // 1. Pre-process to protect certain content
+  formatted = formatted
+    // Protect markdown tables
+    .replace(/(\|[^\n]+\|[^\n]*\n)+/g, match => {
+      return `<table-placeholder>${encodeURIComponent(match)}</table-placeholder>`;
+    });
+
+  // 2. Handle bullet points and lists
+  formatted = formatted
+    // Convert bullet points to proper HTML lists
+    .replace(/(?:^|\n)[ ]*[•-][ ]+([^\n]+)/g, '\n<li>$1</li>')
+    .replace(/(<li>[^<]+<\/li>[\n]*)+/g, '<ul class="list-unstyled mb-3">$&</ul>');
+
+  // 3. Handle headers and sections with numbering
+  let sectionCount = 0;
+  formatted = formatted
+    .replace(/^# (.*$)/gm, (match, title) => {
+      sectionCount = 0;
+      return `<h1 class="mb-4">${title}</h1>`;
+    })
+    .replace(/^## (.*$)/gm, (match, title) => {
+      sectionCount++;
+      return `<h2 class="mb-3">${sectionCount}. ${title}</h2>`;
+    })
+    .replace(/^### (.*$)/gm, (match, title) => {
+      return `<h3 class="mb-3">${title}</h3>`;
+    });
+
+  // 4. Handle text formatting
+  formatted = formatted
+    .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+    .replace(/\*(.*?)\*/g, '<em>$1</em>');
+
+  // 5. Restore and format tables
+  formatted = formatted
+    .replace(/<table-placeholder>(.*?)<\/table-placeholder>/g, (match, content) => {
+      const tableContent = decodeURIComponent(content);
+      const rows = tableContent.trim().split('\n');
+      const headers = rows[0].split('|').filter(cell => cell.trim());
+      const data = rows.slice(2).map(row => row.split('|').filter(cell => cell.trim()));
+      
+      return `
+        <div class="table-responsive">
+          <table class="table table-bordered table-striped">
+            <thead class="thead-light">
+              <tr>
+                ${headers.map(header => `<th scope="col">${header.trim()}</th>`).join('')}
+              </tr>
+            </thead>
+            <tbody>
+              ${data.map(row => `
+                <tr>
+                  ${row.map(cell => `<td>${cell.trim()}</td>`).join('')}
+                </tr>
+              `).join('')}
+            </tbody>
+          </table>
+        </div>
+      `;
+    });
+
+  // 6. Handle paragraphs and spacing
+  formatted = formatted
+    // Split text into paragraphs
+    .split(/\n{2,}/)
+    .map(paragraph => {
+      // Skip if paragraph is already HTML
+      if (paragraph.trim().startsWith('<')) return paragraph;
+      
+      // Handle single line breaks within paragraphs
+      const formattedParagraph = paragraph
+        .replace(/\n/g, '<br>')
+        .trim();
+      
+      return formattedParagraph ? `<p class="mb-3">${formattedParagraph}</p>` : '';
+    })
+    .join('\n');
+
+  // 7. Clean up
+  formatted = formatted
+    .replace(/<p>\s*<\/p>/g, '')
+    .replace(/<p>\s*<br>\s*<\/p>/g, '<br>')
+    .replace(/\n{2,}/g, '\n')
+    .trim();
+
   console.log('Note formatting complete');
   return formatted;
 }

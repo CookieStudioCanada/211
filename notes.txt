@@ -1,0 +1,2 @@
+Summary.json not used
+Determiner si API utilise aussi note.json
